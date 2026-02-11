@@ -19,4 +19,5 @@ public class LedgerService {
         this.transactionRepository = transactionRepository;
         this.entryRepository = entryRepository;
     }
+
 }
